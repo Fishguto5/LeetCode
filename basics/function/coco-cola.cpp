@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 int coco_cola(int n){
     int earn_bottles = n/3;
     int remain_bottles = n%3;
